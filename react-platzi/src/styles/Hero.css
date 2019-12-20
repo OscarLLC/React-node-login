@@ -1,0 +1,16 @@
+.hero_main{
+  background-color: #191921;
+  height: 230px;
+  display: flex;
+  align-items: center;
+}
+
+.hero__badges{
+  margin-left: 15px;
+}
+
+.hero__badges-header{
+  margin-left: 142px;
+  width: 300px;
+}
+

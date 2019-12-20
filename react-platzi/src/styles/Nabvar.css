@@ -1,0 +1,23 @@
+.nabvar{
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #1a2f3b;
+}
+
+.nabvar__content{
+  margin-left: 15px;
+}
+
+.nabvar__img{
+  width: 50px;
+}
+
+.nabvar__content span{
+  color: white;
+}
+
+.nabvar__content .nabvar__text{
+  color: #99a4ae;
+  margin-right: 10px;
+}
